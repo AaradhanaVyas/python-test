@@ -1,13 +1,13 @@
 # python-test
 
-# Create .env file and copy env_template.py into it
+Create .env file and copy env_template.py into it
 
-# Create a postgres DB and name it "python_test"
+Create a postgres DB and name it "python_test"
 
-# Create virtual environment
+Create virtual environment
 
-# Install dependencied "pip install -r requirements.txt"
+Install dependencied "pip install -r requirements.txt"
 
-# Then apply migrations "python manage.py migrate"
+Then apply migrations "python manage.py migrate"
 
-# Start server "python manage.py runserver"
+Start server "python manage.py runserver"
